@@ -1,0 +1,598 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "roboto", sans-serif;
+}
+body{
+    
+}
+
+.container {
+    max-height: 1300;
+    background-image: url("back2.png");
+    background-size: 10px 1200px;
+}
+header{
+    width: auto;
+    overflow: auto;
+    margin-top: 0%;
+    margin-right: 15%;
+    margin-left: 15%;
+    font-size: 80%;
+}    
+.v {
+    float: right;
+
+}
+.v ul li {
+    list-style: none;
+    
+    padding : 4px 10px ;
+}
+.v ul li:hover {
+border: 0.5px solid black;
+}
+.v  ul li a { 
+    text-decoration: none;
+    color: #fff;   
+}
+.a {
+    float: left; 
+    
+}
+
+.a ul li {
+    display: inline-block;
+    list-style: none;
+    padding : 4px 10px ; 
+}
+.a ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 10px;   
+}
+.a ul li:hover{
+    border: 0.5px solid black;
+}
+.b { 
+    width: auto;
+    overflow: auto;
+  
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top:1% ;
+}
+.b  ul li{
+    float: left;
+    margin-top: 2%;
+}
+.b  ul li{
+    float: left;
+    
+}
+.d  {
+    float:right;
+    margin-top:1% ;
+
+}
+.d ul li {
+    display: inline-block;
+    list-style: none;
+    padding : 6px 18px ; 
+}
+.d ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;   
+}
+.d ul li:hover{
+    border: 0.5px solid rgb(168, 165, 165);
+}
+
+.d ul .ee{
+    border: 0.5px solid rgb(168, 165, 165);
+    
+}
+.d ul .rr a {
+    color: #fff;
+    
+}
+.d ul .rr{
+background-color: black;
+}
+
+.e{
+
+    float: right;
+    margin-top:3% ;
+   
+}
+.e input{
+    width: 424px;
+    height: 33px;
+}
+
+.f{
+    background-color: rgb(230, 230, 230);
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+.f ul li {
+    display: inline-block;
+    list-style: none;
+    padding : 10px 22px ; 
+}
+.f ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;   
+}
+.f ul .ff {
+    background-color: rgb(212, 212, 212);
+}
+/*tof 1 -2 */ 
+.g  { 
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+   
+}
+/*tof 1 */ 
+.ggg { 
+    float: left;
+    background-image: url("azz.png")  ;
+    background-repeat: no-repeat ;
+    background-size: 450px 450px;
+    padding-top: 200px;
+    padding-bottom: 60px;
+   
+}
+.ggg h3  {     
+    padding-left : 33%;
+}
+.ggg p  { 
+    padding-top: 10px;    
+    padding-left : 40px;
+    padding-bottom: 50px;
+    padding-right: 40px;
+}
+.ggg a  { 
+    margin-left: 150px; 
+       
+    padding-left : 39%;
+}
+/* tof 2 */
+.k  { 
+
+    margin-left: 50%; 
+    background-image: url("a1.jpg")  ;
+    background-repeat: no-repeat ;
+    background-size: 450px 450px;
+    padding-top: 200px;
+    padding-bottom: 60px;
+}
+
+.k h3  {     
+    padding-left : 35%;
+}
+.k p  { 
+    padding-top: 10px;    
+    padding-left : 40px;
+    padding-bottom: 50px;
+    padding-right: 40px;
+}
+.k a  { 
+    margin-left: 140px; 
+    padding-left : 100px;
+}
+/*tof 3-4 */ 
+.m { 
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+}
+/*tof 3*/ 
+.mm { 
+    float: left;
+    background-image: url("sww.jpg")  ;
+    background-repeat: no-repeat ;
+    background-size: 600px 400px;
+    padding-top: 150px;
+    padding-bottom: 30px;
+   
+}
+.mm h3  {     
+    padding-left : 270px;
+}
+.mm p  { 
+    padding-top: 10px;    
+    padding-left : 130px;
+    padding-bottom: 30px;
+    padding-right: 150px;
+}
+.mm a  { 
+     margin-left: 265px;
+     padding-left : 270px;
+}
+/*tof 4 */ 
+.mmm { 
+
+    margin-left: 70%; 
+    background-image: url("ch.png")  ;
+    background-repeat: no-repeat ;
+    background-size: 300px 300px;
+    padding-top: 236px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+/*tof 5-6-7*/ 
+.z { 
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+    list-style : none ;
+    text-decoration-line: none;
+
+}
+    /*tof 5 */ 
+
+.zz{ 
+    float: left; 
+    background-image: url("l.jpg")  ;
+    background-repeat: no-repeat ;
+    background-size: 300px 300px;
+    padding-top: 236px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+/*tof 6 */ 
+.zzz{ 
+    margin-left: 28px; 
+    float: left;
+    background-image: url("t.jpg")  ;
+    background-repeat: no-repeat ;
+    background-size: 350px 350px;
+    padding-top: 150px;
+    padding-bottom: 48px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+
+}
+.zzz a  { 
+        margin-left: 70px;
+        padding-left : 90px; 
+}
+.zzz h3  {     
+    color: white;
+    padding-bottom: 40px;
+
+    padding-left : 33.5px;
+    padding-right: 33.5px;
+}
+
+/* tof  7 */  
+.zzzz{ 
+    margin-left: 28px; 
+    float: left;
+    background-image: url("m.jpg")  ;
+    background-repeat: no-repeat ;
+    background-size: 300px 300px;
+    padding-top: 236px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+} 
+ ul li {
+    
+    list-style: none;
+}
+ ul li a {
+    text-decoration: none; 
+    color: white;
+}
+
+ ul .z1 a {
+    border: 1px solid white;
+    padding: 10px;
+} 
+.p{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 24%;
+
+}
+.p span {
+    
+      
+      border: 0.5px solid rgb(155, 151, 151);
+      padding-left: 25px;
+      padding-top: 10px;
+      padding-right: 25px;
+      padding-bottom: 10px;
+      background-color: white;
+
+
+}
+.p h3{
+    text-align: center;
+      font-size: 25px ;
+      color: rgb(71, 70, 70);
+}
+.p h3:before {
+
+    float: left;
+
+    top: 1258px; 
+    content: "";
+    display: block;
+    width: 70%;
+    height: 0.5px;
+    position: absolute;
+    background: rgb(155, 151, 151);
+    z-index: -3;
+    
+}
+.l{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 3%;
+}
+.l img{
+    width: 203px;
+    height: 220px;
+
+}
+
+.l1{
+    float: left;
+}
+
+.l10 ul li img {
+    margin-left: 28px;
+    float: left;
+}
+.mot  {
+    margin-top: 19%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.mot1 ul li { 
+    float: right;
+}
+.mot2 ul li { 
+    margin-right: 28px;
+    float: right;
+}
+.mot3 ul li { 
+     margin-right: 28px;
+    float: right;
+}
+
+.mot4 ul li { 
+    margin-right: 28px;
+    float: right;
+   
+}
+.mot a {
+    text-decoration: none;
+     color: rgb(71, 70, 70);
+
+}
+.mot h3{ 
+    font-size: 15px;
+}
+
+.mot ul li {
+    border: 0.5px solid rgb(218, 218, 218);
+    border-top: none;
+} 
+.mot ul li {
+    padding-top: 20px;
+    padding-bottom: 12px;
+}   
+.mot1 ul li  {
+    padding-left: 50.5px;
+    padding-right: 50.5px;
+}
+.mot2 ul li {
+    padding-left: 24.5px;
+    padding-right: 24.5px;
+}
+.mot3 ul li  {
+    padding-left: 33.5px;
+    padding-right: 33.5px;
+}
+.mot4 ul li   {
+    padding-left: 33px;
+    padding-right: 33px;
+    background-color: rgb(218, 218, 218);
+}
+.mot ul li  span { 
+    font-size: 13px;
+}
+.mot1 ul li  span{
+    padding-left: 12px;
+}
+.mot2 ul li  span{
+    padding-left: 35px;
+}
+.mot3 ul li  span{
+    padding-left: 25px;
+}
+.mot4 ul li  span{
+    padding-left: 25px;
+}
+.line {
+    margin-top: 28%;
+}
+.line2 {
+    margin-top: 6%;
+}
+.follow {
+    margin-top: 30px;
+    margin-left: 15%;  
+    margin-right: 15%; 
+}
+.follow ul li {
+    display: inline-block;
+}
+
+ .follow1{
+    padding-top:7px ;
+    font-size: 15px;
+    color: rgb(66, 66, 66);
+}
+.follow .foll li {
+
+    float: left;
+}
+.follow ul li  a {
+    
+    padding-left: 15px;
+   
+}
+.follow .join li {
+    float: right;
+}
+.follow .join li button {
+    background-color: black;
+    color:white;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    border: none;
+    
+}
+.follow .join li button h4 {
+    font-size: 15px;
+}
+.follow .join li input {
+    padding-top: 10px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 30px;
+    width: 250px;
+}
+/*fin*/
+.fin li {
+    float: left;
+    display: inline;
+    font-size: 15px;
+}
+.fin li a {
+    color: rgb(78, 78, 78);   
+} 
+/*fin1*/
+.fin1 {
+     margin-top:40px;
+     margin-left: 15%;    
+     margin-right: 15%;
+}
+ .fin1 li {
+    color: rgb(66, 66, 66);
+    font-size: 17px;
+}
+.fin1 li h3{
+    margin-right: 40px;
+}
+.fin1 li h5{ 
+    color: black;
+    margin-right: 10px;
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 0.5px solid  rgb(207, 207, 207);
+}
+.sol h5{
+    background-color:  rgb(207, 207, 207);
+}
+/*fin2*/
+.fin2 {
+    margin-left: 15%;
+    margin-top: 20px;    
+}
+.fin2 .fin22{
+    padding-left: 135px;
+}
+.fin2 .fin23{
+    padding-left: 69px;
+}
+.fin2 .fin24{
+    padding-left: 135px;
+    padding-top: 20px;
+}
+/*fin3*/
+.fin3  {
+    margin-left: 15%;
+    margin-top: 20px;   
+}
+.fin3 .fin31{
+    padding-left: 186px;
+}
+.fin3 .fin32{
+    padding-left: 106px;
+}
+.fin3 .fin33{
+    padding-left: 121px;
+    padding-top: 20px;
+}
+/*fin4*/
+.fin4 {
+    margin-left: 15%;
+    margin-top: 20px;
+}
+.fin4 .fin41{
+    padding-left: 135px;
+}
+.fin4 .fin42{
+    padding-left: 98px;
+}
+.fin4 .fin43{
+    padding-left: 85px;
+    padding-top: 20px;
+}
+/*fin5*/
+.fin5 {
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+.fin5 .fin52{
+    padding-left: 160px;
+}
+.fin5 .fin53{
+    padding-left: 93px;
+}
+/*fin6*/
+.fin6 {
+    margin-left: 15%;
+    margin-top: 80px;
+    padding-bottom: 60px;
+}
+.fin6 .fin61{
+    padding-left: 10px;
+}
+.fin6 .fin62{
+    padding-left: 50px;
+}
+.fin6 .fin63{
+    padding-left: 25px;
+    
+}
+
+
+
+
+
